@@ -1,4 +1,5 @@
-### Hi there 👋
+### Ola. Tudo bem?
+
 Meu nome é Thiago Sotto.
 
 Sou estudante de Analise de desenvolvimento de sistemas pela Universidade Cruzeiro do Sul.
