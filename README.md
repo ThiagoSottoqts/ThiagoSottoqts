@@ -2,7 +2,7 @@
 
 Meu nome é Thiago Sotto.
 
-Sou estudante de Analise de desenvolvimento de sistemas pela Universidade Cruzeiro do Sul.
+Sou estudante de Análise de Desenvolvimento de Sistemas pela Universidade Cruzeiro do Sul.
 
 Estou estudando também programação através de cursos em plataformas on-line pela udemy.
 
